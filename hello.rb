@@ -2,7 +2,7 @@
 
 # prints out a greeting
 def hello
-    puts 'hola mundo'
+    puts 'hela world'
 end
 
     
